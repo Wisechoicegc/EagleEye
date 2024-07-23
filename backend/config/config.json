@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "jaskobogilovic",
+    "password": "Flordia1",
+    "database": "eagle_eye_crm_dev",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "jaskobogilovic",
+    "password": "Flordia1",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "jaskobogilovic",
+    "password": "Flordia1",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "postgres"
+  }
+}
